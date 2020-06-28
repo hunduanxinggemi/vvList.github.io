@@ -1,75 +1,45 @@
-# Basic
-title: 魂断星戈幂
-subtitle: 个人站
-description: 欢迎来到我的个人博客~
-# 头像里面的标题
-avatarTitle: leopardpan
-# 头像里面的描述
-avatarDesc: iOS / 随便写写
-url: "http://baixin.io"
+title: 魂断星戈幂 #博客标题
+description: 我的一个新的博客地址. #博客描述
+keywords: blog,css,html,php #博客关键字
+author: "Link"
 
-# Comment
-comment:
-    disqus: leopard
-    # gitment: xxx // 需要修改 comments.html中的client_id和client_secret
-    # uyan: 2143225  # 有言id,登录有言官网申请
+#title hide and show
+hide: (つェ⊂)我藏好啦
+show: ´∇｀ 呀被发现啦~ 
 
-# Social
-social:
-    QQ: 807806930
-    github: leopardpan
-    # zhihu: panpanleopard
-    # juejin: xxx
-    jianshu: 2ada30d8d0f7
-    # twitter: 
-    mail: haoran223@163.com
+baseurl: "" # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
+url: "/hydrogen.atlinker.cn" # change this to the base hostname & protocol for your site
+buildtime: "1514736000" #博客建立时的时间戳 可进入https://tool.lu/timestamp/将博客建立时的日期转换成时间戳
+           #The timestamp at the time of blog establishment can be entered at https://tool.lu/timestamp/to convert the date at the time of blog establishment into a timestamp.
 
+PJAX: true #启用PJAX，会与评论系统冲突（如不用评论系统建议开启）
 
-# 百度统计 
-# 使用博客模板请去掉或者更换 id 
-baidu:
-    id: xxxx  
+paginate: 8 #同时显示的最大文章数，超过自动分页
+paginate_path: "page:num"
 
-# Google Analytics
-# 使用博客模板请去掉或者更换 id
-ga:
-    id: xxxx  
-    host: auto  
+background: https://api.dujin.org/bing/1920.php
+theme_color: 546E7A
 
+# hydrogen-blog date format
+# refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
+hydrogen-blog:
+  date_format: "%b %-d, %Y"
 
-# 《----------------- 上面的信息修改成你自己的 ---------------------------》
-#
-#
-#  _post/ 下的文章更换成你自己的文章
-#  帮忙star一下，感谢~😆 地址： https://hunduanxinggemi.github.io/vvList.github.io/#
-#
-#
-# 《--------------- 下面的信息可以自行选择是否修改 ------------------------》
+#MathJax switch
+MathJax: false
 
+#install emoji
+plugins:
+  - jemoji
 
-permalink: /:year/:month/:title/
-# Format
-highlighter: rouge
-
-textColor: #FF0000
-
-# supported colors: blue, green, purple, red, orange or slate. If you need clear, leave it empty.
-cover_color: clear
-
-# The blog button should not be removed.
-blog_button:
-    title: 博客主页
-
-# Navigation buttons in the front page.s
-nav:
-    - {title: 所有文章, description: archive, url: '/archive'}   
-    - {title: 标签, description: tags, url: '/tags'}      
-    - {title: 关于我, description: about, url: '/about'}      
-    
-
-# Pagination
-gems: [jekyll-paginate,jekyll-sitemap]
-paginate: 20
-paginate_path: "page/:num/"
-
-
+# social account
+image:
+twitter:
+  username:
+#  site:
+facebook:
+  #publisher: null
+  #profile_id: null
+  app_id: null
+  #authors: null
+#  admins:
