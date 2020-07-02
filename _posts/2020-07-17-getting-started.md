@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 这是一个歌词
-featured-img: ruben-santander-69158_lg
+featured-img: ruben-santander-69158
 ---
 
 ## Getting started
