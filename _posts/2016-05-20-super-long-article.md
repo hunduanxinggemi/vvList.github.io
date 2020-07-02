@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 抄写的诗句
-featured-img: shane-rounce-206187
+featured-img: shane-rounce-205187
 ---
 
 红酥手，黄籘酒，满城春色宫墙柳。东风恶，欢情薄，一怀愁绪，几年离索。错，错，错！
