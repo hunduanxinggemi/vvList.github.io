@@ -1,7 +1,7 @@
 {
-  "name": "sleek",
+  "name": "魂断星戈幂",
   "version": "1.0.0",
-  "description": "Sleek is a modern Jekyll theme focused on speed performance & SEO best practices.",
+  "description": "TH is a modern Jekyll theme focused on speed performance & SEO best practices.",
   "main": "gulpfile.js",
   "dependencies": {
     "breakpoint-sass": "^2.7.1",
@@ -39,7 +39,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/janczizikow/sleek.git"
+    "url": "git+https://hunduanxinggemi.github.io/vvList.github.io/VipList/"
   },
   "keywords": [],
   "author": "Jan Czizikow",
