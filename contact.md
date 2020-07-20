@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Contact
+title: 联系我
 permalink: /contact/
 ---
 
