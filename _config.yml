@@ -4,7 +4,7 @@ email: 807806930@163.com # email for form submission, you also have to change it
 description: > # this means to ignore newlines until "baseurl:"
   红酥手，黄藤酒，满城春色宫墙柳。东风恶，欢情薄。一怀愁绪，几年离索。 错，错，错。春依旧，人空瘦，泪痕红邑鲛绡透。桃花落，闲池阁，山盟虽在，锦书难托。 莫，莫，莫。
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://janczizikow.github.io/sleek" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://hunduanxinggemi.github.io/vvList.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jan_czizikow # replace with your_twitter_username or comment to remove link from footer
 github_username:  janczizikow # replace with your_github_username or comment to remove link from footer
 instagram_username: shanlongjj # replace with your_instagram_username or comment to remove link from footer
