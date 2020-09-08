@@ -27,7 +27,7 @@ From [adam-p/markdown-here](https://github.com/adam-p/markdown-here/wiki/Markdow
 
 ```no-highlight
 # H1
-## H2
+## H2c
 ### H3
 #### H4
 ##### H5
