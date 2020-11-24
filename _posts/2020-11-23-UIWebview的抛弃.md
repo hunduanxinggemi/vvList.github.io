@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 
-featured-img: sleek  //shane-rounce-205187 //emile-perron-190221
+featured-img: shane-rounce-205187
 ---
 # 关于UIwebview的放弃，从今年开始苹果已经完全禁止代码里用到UIWebview了，因此用一下方法可检测项目里用到webview的文件
 
